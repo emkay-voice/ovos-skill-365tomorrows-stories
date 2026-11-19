@@ -11,7 +11,10 @@ attribution required, non-commercial, no derivatives (reading the text
 aloud unmodified is a straightforward reproduction, not a derivative
 work).
 
-[![Tests](https://github.com/andlo/ovos-skill-365tomorrows-stories/actions/workflows/test.yml/badge.svg)](https://github.com/andlo/ovos-skill-365tomorrows-stories/actions/workflows/test.yml)
+It is part of [Emkay](https://github.com/emkay-voice/emkay), OpenVoiceOS in
+the browser, and works on any [OpenVoiceOS](https://openvoiceos.org).
+
+[![Build](https://github.com/emkay-voice/ovos-skill-365tomorrows-stories/actions/workflows/publish.yml/badge.svg)](https://github.com/emkay-voice/ovos-skill-365tomorrows-stories/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/ovos-skill-365tomorrows-stories.svg)](https://pypi.org/project/ovos-skill-365tomorrows-stories/)
 
 > **This skill has no standalone voice interface.** It registers no

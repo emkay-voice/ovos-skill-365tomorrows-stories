@@ -1,10 +1,10 @@
 {
-  "skill_id": "ovos-skill-365tomorrows-stories.andlo",
-  "source": "https://github.com/andlo/ovos-skill-365tomorrows-stories",
+  "skill_id": "ovos-skill-365tomorrows-stories.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-365tomorrows-stories",
   "package_name": "ovos-skill-365tomorrows-stories",
   "pip_spec": "ovos-skill-365tomorrows-stories",
-  "license": "GPL-3.0-or-later",
-  "author": "andlo",
+  "license": "Apache-2.0",
+  "author": "emkay-voice",
   "name": "365tomorrows Verhalen (aanbieder)",
   "description": "Leest dagelijks CC-gelicentieerde sciencefiction van 365tomorrows.com hardop voor. Aanbieder voor ovos-common-reading-pipeline-plugin. Geen zelfstandige spraakinterface.",
   "examples": [
@@ -17,5 +17,5 @@
     "flashfiction",
     "provider"
   ],
-  "icon": "https://raw.githubusercontent.com/andlo/ovos-skill-365tomorrows-stories/main/book-512.png"
+  "icon": "https://raw.githubusercontent.com/emkay-voice/ovos-skill-365tomorrows-stories/main/book-512.png"
 }
