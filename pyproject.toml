@@ -9,6 +9,7 @@ description = "Reads daily CC-licensed flash sci-fi from 365tomorrows.com aloud.
 readme = "README.md"
 license = {text = "Apache-2.0"}
 authors = [{name = "emkay-voice"}]
+maintainers = [{name = "Andreas Lorensen"}]
 requires-python = ">=3.10"
 keywords = ["ovos", "openvoiceos", "skill", "voice", "assistant", "science", "fiction", "flash", "fiction", "storytelling", "emkay"]
 classifiers = [
